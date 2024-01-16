@@ -11,19 +11,33 @@
 ### Tecnologias que mais sou familiarizado:
 <div>
 
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black">
+### Front-end
+<img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=000000">
-<img src="	https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
+#
+### Back-end
+<img src="https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=Prisma&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D">
+<img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/Spring-323330?style=for-the-badge&logo=spring&logoColor=black">
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+#
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+### Databases
+
+<img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-323330?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+
+#
+
+### Outros
+<img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Powershell-323330?style=for-the-badge&logo=powershell&logoColor=white">
+
+
 </div>
 
 
