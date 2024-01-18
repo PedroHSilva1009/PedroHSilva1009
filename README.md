@@ -18,6 +18,8 @@
 
 #
 ### Back-end
+<img src="https://img.shields.io/badge/C%23-323330?style=for-the-badge&logo=c-sharp&logoColor=239120">
+<img src="https://img.shields.io/badge/.NET-323330?style=for-the-badge&logo=.net&logoColor=A179DC">
 <img src="https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=Prisma&logoColor=3982CE">
 <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=43853D">
 <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge">
