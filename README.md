@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-silva-903a3426b/)
 
 [![Uglúk's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroHSilva1009&include_orgs=true&theme=dark)](https://github.com/PedroHSilva1009/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=PedroHSilva1009&include_orgs=true&theme=dark&langs_count=5)](https://github.com/PedroHSilva1009/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=PedroHSilva1009&hide=ruby&include_orgs=true&theme=dark&langs_count=5)](https://github.com/PedroHSilva1009/github-readme-stats)
 
 
 
