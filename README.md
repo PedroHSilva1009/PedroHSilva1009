@@ -39,8 +39,8 @@
 
 ### Outros
 <img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=E95420">
-<img src="https://img.shields.io/badge/Powershell-323330?style=for-the-badge&logo=powershell&logoColor=2CA5E0">
 <img src="https://img.shields.io/badge/Tails%20-323330?&style=for-the-badge&logo=tails&logoColor=56347C">
 <img src="https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazon-aws&logoColor=232F3E">
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+<img src="https://img.shields.io/badge/Powershell-323330?style=for-the-badge&logo=powershell&logoColor=2CA5E0">
 </div>
