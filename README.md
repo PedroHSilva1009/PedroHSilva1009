@@ -34,6 +34,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-323330?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927">
+<img src="https://img.shields.io/badge/Oracle-323330?style=for-the-badge&logo=oracle&logoColor=F80000">
 
 #
 
